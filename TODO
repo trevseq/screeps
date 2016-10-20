@@ -8,3 +8,5 @@ simulation/tutorial:
 ** 'safe mode' when energy is low / resources are scarce, to maximize survivability
        (e.g. draw only absolutely necessary energy from the spawn if it doesn't have much)
 ** mechanism to factorize the ubiquitous 'findNearest; if(!isNearTo) moveTo; else doSomething;'
+
+**findNearest --> pathFinder + pathFinder module
